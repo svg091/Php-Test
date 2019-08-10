@@ -1,5 +1,7 @@
 #!/bin/bash
 set -x
 mkdir test
-echo "Done"
-ls -ltr
+cd test
+touch vishal.txt
+echo "Done" >> vishal.tx
+ls -ltr >> vishal.tx
