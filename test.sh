@@ -3,5 +3,5 @@ set -x
 mkdir test
 cd test
 touch vishal.txt
-echo "Done" >> vishal.tx
-ls -ltr >> vishal.tx
+echo "Done" >> vishal.txt
+ls -ltr >> vishal.txt
