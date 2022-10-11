@@ -16,7 +16,7 @@
     "cross-env": "^5.1.1",
     "forever-monitor": "1.7.1",
     "jasmine": "^3.0.0",
-    "jasmine-reporters": "2.2.0",
+    "jasmine-reporters": "2.5.0",
     "protractor": "^5.1.0",
     "wait-on": "2.0.2"
   },
